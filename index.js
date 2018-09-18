@@ -18,4 +18,8 @@ function createFareMultiplier(int){
   
 }
 
+function fareDoubler(){
+  
+}
+
     
