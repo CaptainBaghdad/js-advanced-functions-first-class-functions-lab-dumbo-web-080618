@@ -29,4 +29,9 @@ function fareTripler(fare){
   
 }
 
+function 
+
+
+
+
     
