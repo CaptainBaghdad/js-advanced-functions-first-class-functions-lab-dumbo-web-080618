@@ -23,8 +23,8 @@ return createFareMultiplier(2)(fare);
   
 }
 
-function fareTripler(){
-  return createFareMultiplier()
+function fareTripler(fare){
+  return createFareMultiplier(3)(fare);
   
   
 }
