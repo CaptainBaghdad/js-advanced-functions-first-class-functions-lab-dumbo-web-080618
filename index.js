@@ -29,7 +29,9 @@ function fareTripler(fare){
   
 }
 
-function 
+function fetchSpecifiedDrivers(drivers,func){
+  
+}
 
 
 
