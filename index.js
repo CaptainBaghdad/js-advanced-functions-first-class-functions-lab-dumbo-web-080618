@@ -18,7 +18,10 @@ function createFareMultiplier(int){
   
 }
 
-function fareDoubler(){
+function fareDoubler(fare){
+  const fd = createFareMultiplier();
+  
+}
   
 }
 
